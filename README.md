@@ -5,53 +5,11 @@
 
 -   [使用 Alpine](#use)
     -   [使用 root 帳號](#uselogin)
-    -   [建立使用著帳號](#adduser)
-    -   [測試網路](#ipaddr)
-    -   [嘗試遠端連線稱](#ssh)
-    -   [安裝 nano](#nano)
-    -   [設定固定 ip](#dhcp)
-    -   [設定 dns server](#dns)
+    -   [使用 root 帳號](https://github.com/CDS-ZUKYUN/OS_Alpine/blob/main/Book/Chapter01-Install%20Alpine.md)
 
 - [參考文件](#references)
 
 * * *
-
-
-htrhtr
-
-
-
-
-
-
-
-
-hrhh
-
-
-
-
-
-
-
-
-
-
-
-
-
-ghf
-
-
-
-
-
-
-
-
-
-
-
 
 
 
