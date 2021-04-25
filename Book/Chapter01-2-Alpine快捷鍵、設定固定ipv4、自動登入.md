@@ -1,4 +1,4 @@
-# Alp_Chapter 01-2.Alpine快捷鍵、設定固定ipv4、自動登入
+# 01-2.Alpine快捷鍵、設定固定ipv4、自動登入
 
 * * *
 
