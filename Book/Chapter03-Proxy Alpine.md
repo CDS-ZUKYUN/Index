@@ -27,7 +27,7 @@ stackoverflow
 #查看squid運行狀態
 ~$ sudo rc-service squid status 
 #讓squid開機自動執行 (del)
-~$ sudo rc-update add squid
+~$ sudo rc-update add squid  (del)
 ```
 ![](https://i.imgur.com/EOO5gpf.png)
 
