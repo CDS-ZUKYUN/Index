@@ -1,4 +1,4 @@
-# Alp_Chapter 01. Install Alpine
+# 01. Install Alpine
 
 
 * * *
