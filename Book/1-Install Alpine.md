@@ -1,4 +1,4 @@
-# 01. Install Alpine
+# 1. Install Alpine
 
 
 * * *
