@@ -57,6 +57,12 @@ sudo iptables -t nat -A POSTROUTING -o eth0 ! -d 172.30.0.0/255.255.0.0 -j MASQU
 ![DHCP6](https://i.imgur.com/q1kjAjm.png)
 
 
+### error2 當安裝套件時，若套件apk安裝的url無法轉換domain name 那麼需要增加google的nameserver
+```
+sudo nano /etc/resolv.conf
+```
+![err2](https://i.imgur.com/QyyRvIj.png)
+
 
 ## 編寫DHCP server設定檔(r1)
 
