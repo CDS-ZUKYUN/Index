@@ -1,4 +1,4 @@
-# 01-3.開啟ipv4 forwarding、設定路由、安裝/啟動Proxy
+# 01-3 開啟ipv4 forwarding、設定路由、安裝/啟動Proxy
 
 * * *
 
