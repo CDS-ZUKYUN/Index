@@ -23,6 +23,7 @@ OK: 925 MiB in 172 packages
 ```
 
 - error1 私有ip無法上網
+
 ![DHCP3](https://i.imgur.com/y34V40k.png)
 
 - 解決方法
