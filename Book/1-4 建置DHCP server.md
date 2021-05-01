@@ -7,7 +7,7 @@
 提醒1:切網段前10後5
 
 
-1.Alp建置DHCP server
+## 1.Alp建置DHCP server
 
 - 安裝DHCP server apk
 ```
@@ -22,12 +22,14 @@ Executing busybox-1.32.1-r5.trigger
 OK: 925 MiB in 172 packages
 ```
 
-- error1 私有ip無法上網
+### error1 私有ip無法上網
 
 ![DHCP3](https://i.imgur.com/y34V40k.png)
 
 - 解決方法
+
   P1第一，開啟forwarding;第二，增加偽裝規則
+  
 ```
 sudo nano /etc/local.d/route_set.start
 
