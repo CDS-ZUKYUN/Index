@@ -156,7 +156,9 @@ iptable(.241/.189-AR)運作概念圖
 ### 噴error
 
 - 錯誤
+
 ![](https://i.imgur.com/9Kml2FL.png)
+
 第一行，封包一定要到nat-POSTROUTING才能-o output
 第二行，封包一定要到nat-POSTROUTING才能-j jump(有爭議待釐清，尚未)
 
