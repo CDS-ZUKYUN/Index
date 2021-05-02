@@ -13,6 +13,7 @@
 ```
 $ sudo apk update
 $ sudo apk add dhcp
+-----------------------------------------------
 (1/4) Installing libgcc (10.2.1_pre1-r3)
 (2/4) Installing dhcp (4.4.2-r3)
 Executing dhcp-4.4.2-r3.pre-install
