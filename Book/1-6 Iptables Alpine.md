@@ -13,7 +13,7 @@
 
 ![7](https://i.imgur.com/D0nmejC.png)
 
->
+> 封包路由會根據tables的規則送發瘋包，每台主機都有，只看有沒有設規則。
 
 ![](https://i.imgur.com/EI7JRht.png)
 
