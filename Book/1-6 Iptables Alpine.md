@@ -7,10 +7,13 @@
 
 參照食用:0424_iptables.pptx (26Day).pptx
 
-- iptables 
-就是Linux 作業系統的防火牆，存在「表（tables）」、「鏈（chain）」和「規則（rules）」三個層面。
+- iptables
+ 
+> 就是Linux 作業系統的防火牆，存在「表（tables）」、「鏈（chain）」和「規則（rules）」三個層面。
 
 ![7](https://i.imgur.com/D0nmejC.png)
+
+>
 
 ![](https://i.imgur.com/EI7JRht.png)
 
