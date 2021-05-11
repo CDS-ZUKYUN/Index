@@ -79,6 +79,7 @@ subnet 172.30.32.0 netmask 255.255.224.0 {
 }
 ```
 sudo rc-update add dhcpd
+
 sudo rc-service dhcpd start
 
 ![DHCP8](https://i.imgur.com/54pdCn8.png)
