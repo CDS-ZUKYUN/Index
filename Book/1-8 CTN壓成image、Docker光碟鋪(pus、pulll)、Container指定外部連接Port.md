@@ -88,6 +88,7 @@ Tip: none
 
 3. curl http://localhost:80
 
+win10測試:
 查 ALP ip, 用win broswertest
 
 ```
