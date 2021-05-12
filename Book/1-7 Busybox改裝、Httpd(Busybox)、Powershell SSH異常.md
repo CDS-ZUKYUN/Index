@@ -13,10 +13,10 @@
 >2. 啟動container(t1) 用終端機跑sh 
 > 
 >3. 下載 Busybox 執行檔
->
-> 
 > 
 > check: busybox | grep httpd
+> busybox | grep -o httpd
+> 註:-o 相符的才show
  
 ```
 1. ssh bigred@<CTN.ALP.Docker IP>
