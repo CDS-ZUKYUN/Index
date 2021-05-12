@@ -90,8 +90,19 @@ ssh bigred@192.168.2.151
 ```
 
 
+示例區
+---
+
+## busybox改裝
+
+![](https://i.imgur.com/C1P2wPr.png)
+
+![](https://i.imgur.com/ojcfbry.png)
+
+
 <br /><br />
 ###### tags: `Alpine`
+
 
 
 
