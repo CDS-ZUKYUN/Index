@@ -14,9 +14,7 @@
 > 
 >3. 下載 Busybox 執行檔
 > 
-> check: busybox | grep httpd
-> busybox | grep -o httpd
-> 註:-o 相符的才show
+
  
 ```
 1. ssh bigred@<CTN.ALP.Docker IP>
@@ -32,8 +30,11 @@
 / #  chmod +x busybox1.31
 / #  which busybox
 / #  mv busybox1.31 bin/busybox
+
 檢查busybox改裝
-/ # busybox(1.31) | grep httpd
+/ # busybox(1.31) | grep -o httpd
+註:-o 相符的才show
+
 ```
  
  
@@ -100,6 +101,7 @@ ssh bigred@192.168.2.151
 
 ![](https://i.imgur.com/ojcfbry.png)
 
+![](https://i.imgur.com/8GpKcj0.png)
 
 <br /><br />
 ###### tags: `Alpine`
