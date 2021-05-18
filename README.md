@@ -13,7 +13,7 @@
     -   [01-5 Proxy運作](https://github.com/CDS-ZUKYUN/OS_Alpine/blob/main/Book/1-5%20Proxy%20Alpine.md)
     -   [01-6 Iptables](https://github.com/CDS-ZUKYUN/OS_Alpine/blob/main/Book/1-6%20Iptables%20Alpine.md)
     -   [01-7 Busybox改裝、Httpd(Busybox)、Powershell SSH異常](https://github.com/CDS-ZUKYUN/OS_Alpine/blob/main/Book/1-7%20Busybox%E6%94%B9%E8%A3%9D%E3%80%81Httpd(Busybox)%E3%80%81Powershell%20SSH%E7%95%B0%E5%B8%B8.md)
-    -   [01-8 CTN壓成image、Docker光碟鋪(pus、pulll)、Container指定外部連接Port](https://github.com/CDS-ZUKYUN/OS_Alpine/blob/main/Book/1-8%20CTN%E5%A3%93%E6%88%90image%E3%80%81Docker%E5%85%89%E7%A2%9F%E9%8B%AA(pus%E3%80%81pulll)%E3%80%81Container%E6%8C%87%E5%AE%9A%E5%A4%96%E9%83%A8%E9%80%A3%E6%8E%A5Port.md)
+    -   [01-8 CTN壓成image、Docker光碟鋪(push、pulll)、Container指定外部連接Port](https://github.com/CDS-ZUKYUN/OS_Alpine/blob/main/Book/1-8%20CTN%E5%A3%93%E6%88%90image%E3%80%81Docker%E5%85%89%E7%A2%9F%E9%8B%AA(push%E3%80%81pulll)%E3%80%81Container%E6%8C%87%E5%AE%9A%E5%A4%96%E9%83%A8%E9%80%A3%E6%8E%A5Port.md)
     -   [](#uselogin)
 -   [Chapter-?技術]()
     -
