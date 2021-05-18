@@ -1,4 +1,4 @@
-# 01-8 CTN壓成image、Docker光碟鋪(pus、pulll)、Container指定外部連接Port
+# 01-8 CTN壓成image、Docker光碟鋪(push、pulll)、Container指定外部連接Port
 
 >date_tag: 0511
 >
